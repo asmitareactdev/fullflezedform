@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  background-image: url("https://storage.needpix.com/rsynced_images/background-2203989_1280.jpg");
+  background-size: cover;
+}
+
+#parentDiv{
+  display: flex;
+}
+
+.reportCard{
+  display: none;
+}
+
+.repLable{
+  color: rgb(236, 71, 38);
+  font-weight: bolder;
+}
+
+
+
+h1{
+  text-shadow: 10px 10px 15px black;
+}
+
+label{
+  color: white;
+  text-align: left;
+  display: inline-block;
+  width: 150px;
+  
+}
+
+
+form div{
+  margin: 15px;  
+}
+
+form{
+  display: inline-block;
+  background-color: rgba(34, 67, 69, 0.7);
+  width: 600px;
+  border-color: black;
+  border-radius: 5px;
+  box-shadow: 10px 10px 15px rgb(36, 33, 33);
+}
+
+
+.lkLable{
+  display: inline-block;
+  width: 80px;
+ }
+
+button{
+  color: white;
+  background-color: black;
+  width: 100px;
+  border-radius: 5px;
+}
+
+fieldset{
+  border-color: black;
+  border-width: 3px;
+  margin: 10px;
+}
+
+legend{
+  color: white;
+  background-color: black;
+  font-weight: bold;
+}
+
+span{
+  color: rgb(251, 251, 251);
+  margin: 10px;
+  
+}
+
